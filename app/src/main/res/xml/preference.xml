@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <SwitchPreference
+        android:defaultValue="true"
+        android:key="@string/pref_notification"
+        android:title="Display Notification" />
+
+    <SwitchPreference
+        android:defaultValue="true"
+        android:key="@string/pref_hidenotification"
+        android:title="Notification Downloader" />
+
+    <Preference
+        android:title="Choose Directory"
+        android:icon="@drawable/ic_folder_black_24dp"
+        android:summary="Choose path directory that you want to save your files"
+        android:key="path">
+    </Preference>
+
+    <Preference
+        android:title="Consent SDK"
+        android:summary="Change the consent settings"
+        android:key="consent">
+    </Preference>
+
+    <Preference
+        android:title="Rate us!"
+        android:summary="if app work good. Just take action and Rate us!"
+        android:key="rateus">
+    </Preference>
+
+    <Preference
+        android:title="Share this APP"
+        android:summary="let your friends know about my app."
+        android:key="sharethisapp">
+    </Preference>
+
+
+    <Preference
+        android:title="More APPs"
+        android:summary="Check out our best app."
+        android:key="moreapp">
+    </Preference>
+
+    <Preference
+        android:title="Contact us"
+        android:summary="if you have any idea or this app not work properly. please contact me at: ganjmeng@gmail.com"
+        android:key="contactme">
+    </Preference>
+
+    <Preference
+        android:title="Privacy policy"
+        android:summary="our privacy policies"
+        android:key="privacy">
+    </Preference>
+
+</PreferenceScreen>

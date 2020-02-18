@@ -1,0 +1,51 @@
+<resources>
+
+    <string name="app_name">InsTake下载器</string>
+    <string name="action_settings">Settings</string>
+    <string name="ok">OK!</string>
+    <string name="alert">Please make sure you are Adding a correct URL.</string>
+    <string name="hint">http://instagram.com/...</string>
+    <string name="cancel">Cancel</string>
+    <string name="savevideo">Save Video</string>
+    <string name="past">PAST</string>
+    <string name="guide">Guide</string>
+    <string name="show">Show The Content</string>
+    <string name="copytext">Copy Text</string>
+    <string name="rateus">Rate Us!</string>
+    <string name="moreapp">More APP</string>
+    <string name="saveimage">Save Image</string>
+    <string name="stream">STREAM</string>
+    <string name="sharethisapp">Share This APP</string>
+    <string name="dstart">Download Start ...</string>
+    <string name="play">Play</string>
+    <string name="share">Share</string>
+    <string name="remove">Remove</string>
+    <string name="tips">this guide will help to using this app properly and we will provide you two method for downloading video from vine.</string>
+    <string name="quality">Quality :</string>
+
+    <!-- Preference -->
+    <string name="pref_appname">vdDownloader</string>
+    <string name="pref_notification">notification</string>
+    <string name="pref_hidenotification">hidenotification</string>
+
+    <!--menu-->
+    <string name="menu_play">Play</string>
+    <string name="menu_rename">Rename</string>
+    <string name="menu_movefile">Move File</string>
+    <string name="menu_share">Share</string>
+    <string name="menu_delete">Delete</string>
+
+    <!-- Home Tabs -->
+    <string name="tab_home">HOME</string>
+    <string name="tab_download">VIDEO</string>
+    <string name="tab_guide">FACEBOOK</string>
+
+    <!-- Folder name -->
+    <string name="foldername">Video Downloader</string>
+
+    <!-- admob settings off/on Interstitial -->
+    <string name="onoff_Interstitial">on</string>
+    <string name="admob_interstitial_counter">1</string>
+
+
+</resources>

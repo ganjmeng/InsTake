@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#ba0957</color>
+    <color name="colorPrimaryDark">#ba0957</color>
+    <color name="colorAccent">#029678</color>
+
+    <color name="year">#999999</color>
+    <color name="title">#222222</color>
+
+    <color name="dark">#393939</color>
+
+    <color name="white">#ffffff</color>
+    <color name="black">#000000</color>
+    <color name="whatsapp">#075e54</color>
+    <color name="blue">#ba0957</color>
+    <color name="green">#80FF00</color>
+    <color name="red">#ba0957</color>
+    <color name="grey">#C4C0C0</color>
+
+    <color name = "tab_normal">#ffffff</color>
+    <color name = "tab_selected">#b10853</color>
+
+
+    <!-- text menu color -->
+    <color name = "menuTextcolor">#ffffff</color>
+
+    <!-- menu item color -->
+    <color name = "menuitemcolor">#000000</color>
+
+    <!-- button text color -->
+    <color name = "buttontextcolor">#ffffff</color>
+
+    <!-- bar color -->
+    <color name = "barColor">#0277BD</color>
+    <color name = "barText">#ffffff</color>
+
+    <!-- tabs Color -->
+    <color name = "tabsColor">#01579B</color>
+    <color name = "tabselectedText">#ffffff</color>
+    <color name = "tabsunselectedText">#CCffffff</color>
+
+    <!-- tabs Line -->
+    <color name = "barLine">#B3E5FC</color>
+
+    <!-- buttonStyle -->
+    <color name = "btnStyleStart">#0277BD</color>
+    <color name = "btnStyleEnd">#29B6F6</color>
+    <color name = "btnStyleFocused">#01579B</color>
+
+    <!-- progressDownloader -->
+    <color name = "progressBackground">#E0E0E0</color>
+    <color name = "progressStart">#01579B</color>
+    <color name = "progressEnd">#03A9F4</color>
+
+</resources>
